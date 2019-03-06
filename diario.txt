@@ -1,0 +1,11 @@
+20190304
+  Propuesta de realizar el tutorial de GWT
+  Propuesta lectura de la teoría de RPC
+
+20190305
+  Propuesta de continuar el tutorial de GWT, esta vez con RPC
+  Propuesta de hacer Test Cases sobre la app de IVI hecha por vBote
+
+20190306
+  Creada la carpeta para GitHub y configurado para realizar correctamente commit y push
+  Creado diario.txt para GitHub con formato enseñado por Luis Velasco, profesor del I.E.S. Serpis
