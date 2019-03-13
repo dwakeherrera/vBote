@@ -12,3 +12,27 @@
   Editado /etc/hosts para poder acceder a la app de IVI de developers y producción
   Propuesta de comprobar los cambios efectuados en la app de IVI
   Propuesta de hacer Test Cases de RMA sobre la app de IVI
+
+20190307
+  Propuesta de hacer Test Cases exhaustivos sobre todos los navegadores
+  Acceso a la base de datos de vBote para ver usuarios para realizar las pruebas
+  Realizadas pruebas en Google Chrome, encontrados bugs
+
+20190308
+  Creación y configuración del usuario propio
+  Migración de GitHub a Bitbucket
+  Empezadas pruebas exhaustivas en Safari
+
+20190311
+  Continuación de Test Cases en Safari
+  Instalación entorno IVI: SourceTree, Cisco AnyConnect, Eclipse (plugins: Apache IvyDE, GWT, Vaadin), Apache Tomcat v7 y v8, configuración de Java SE runtime environment 1.8.0
+  Reunión del equipo de IVI
+
+20190312
+  Instalación y configuración de un nuevo equipo debido a problemas con el anterior
+  Repetidos los pasos de la instalación del entorno IVI
+  Clonación de los repositorios de IVI con SourceTree
+  Finalización de la guía del entorno IVI, compilación completa en Eclipse y servidor puesto en marcha para realizar pruebas y desarrollar.
+
+20190313
+  
