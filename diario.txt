@@ -32,7 +32,8 @@
   Instalación y configuración de un nuevo equipo debido a problemas con el anterior
   Repetidos los pasos de la instalación del entorno IVI
   Clonación de los repositorios de IVI con SourceTree
-  Finalización de la guía del entorno IVI, compilación completa en Eclipse y servidor puesto en marcha para realizar pruebas y desarrollar.
+  Finalización de la guía del entorno IVI, compilación completa en Eclipse y servidor puesto en marcha para realizar pruebas y desarrollar
 
 20190313
-  
+  Leer y comprender cómo funciona el portal de IVI (explicadas varias clases por Javier para realizar una práctica)
+  Práctica: Mostrar datos pasados a la BBDD en el portal de IVI
