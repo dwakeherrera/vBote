@@ -36,8 +36,13 @@
 
 20190313
   Leer y comprender cómo funciona el portal de IVI (explicadas varias clases por Javier para realizar una práctica)
-  Práctica: Mostrar datos pasados a la BBDD en el portal de IVI
+  Práctica: Obtener y almacenar datos de la BBDD del portal IVI
 
 20190314
   Práctica continuada con mucha dificultad
   Propuesta propia: realizar curso de Hibernate (http://www.cursohibernate.es/doku.php)
+
+20190315
+  Práctica continuada con bastante dificultad
+  Práctica finalizada a las 12:00
+  Prueba de la práctica con breakpoints (lista obtenida correctamente)
