@@ -46,3 +46,10 @@
   Práctica continuada con bastante dificultad
   Práctica finalizada a las 12:00
   Prueba de la práctica con breakpoints (lista obtenida correctamente)
+
+20190320
+  Lectura de tutoriales y documentación de Java e Hibernate
+  Comenzado curso de Hibernate
+
+20190321
+  Continuación de curso Hibernate
