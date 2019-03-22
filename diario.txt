@@ -53,3 +53,7 @@
 
 20190321
   Continuación de curso Hibernate
+
+20190322
+  Continuación de curso Hibernate
+  Continuación de la práctica: inspeccionar y ver funcionamiento de la parte cliente
