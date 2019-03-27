@@ -57,3 +57,13 @@
 20190322
   Continuación de curso Hibernate
   Continuación de la práctica: inspeccionar y ver funcionamiento de la parte cliente
+
+20190325
+  Continuación de curso Hibernate
+  Práctica: Modificar el código para mostrar un dato específico de otra tabla
+
+20190326
+  Reunión Serpis
+
+20190327
+  
