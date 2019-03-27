@@ -66,4 +66,4 @@
   Reunión Serpis
 
 20190327
-  
+  Test Cases de una nueva versión del portal IVI: Google Chrome
