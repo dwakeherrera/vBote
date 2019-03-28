@@ -67,3 +67,8 @@
 
 20190327
   Test Cases de una nueva versión del portal IVI: Google Chrome
+
+20190328
+  Continuación de Test Cases en Google Chrome
+  Test Cases en Google Chrome terminados satisfactoriamente, errores menores encontrados
+  Comienzo de Test Cases de la nueva versión del portal IVI: iPhone
