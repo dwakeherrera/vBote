@@ -82,4 +82,4 @@
   Ausencia por enfermedad
 
 20190302
-  
+  Continuación de curso Hibernate
