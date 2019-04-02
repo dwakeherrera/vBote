@@ -77,3 +77,9 @@
   Pausados Test Cases en iPhone
   Arreglar bug del portal IVI en dispositivo móvil
   Bug: En menú -> "perfil de usuario", al darle a "buzón de sugerencias", el botón "flecha atrás" debería volver a la pantalla anterior (perfil de usuario), y no a la pantalla principal
+
+20190301
+  Ausencia por enfermedad
+
+20190302
+  
