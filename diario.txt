@@ -83,3 +83,8 @@
 
 20190302
   Continuación de curso Hibernate
+
+20190303
+  Continuación de curso Hibernate
+  Comienzo de Test Cases en prepro IVI: Google Chrome y Safari
+  Conexión al servidor (Windows Server 2012 R2) mediante Microsoft Remote Desktop para consultar la BBDD
