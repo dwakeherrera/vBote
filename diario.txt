@@ -100,4 +100,6 @@
 
 20190408
   Continuación de curso Hibernate
-  Revisados los Test Cases cuyo funcionamiento no era el esperado
+  Reunión weekly
+  Revisados Test Cases fallidos el viernes -> Todo OK
+  Continuación Test Cases para el release
