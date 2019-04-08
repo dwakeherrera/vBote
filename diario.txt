@@ -97,3 +97,7 @@
   Continuación de curso Hibernate
   Test Cases en prepro IVI
   Los Test Cases han sido realizados junto a mis compañeros del equipo de IVI, puesto a que la release es el martes 9 de abril, ha habido muy buena comunicación y nos hemos repartido el trabajo de manera muy organizada y eficiente. Hemos utilizado una plantilla en Google Drive y hablado en persona y mediante chat en Slack
+
+20190408
+  Continuación de curso Hibernate
+  Revisados los Test Cases cuyo funcionamiento no era el esperado
