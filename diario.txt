@@ -103,3 +103,13 @@
   Reunión weekly
   Revisados Test Cases fallidos el viernes -> Todo OK
   Continuación Test Cases para el release
+
+20190409
+  Continuación Test Cases para el release
+  Reunión del equipo de IVI
+  Asignación de tareas y explicación de funcionamiento: Axosoft
+  Tareas a realizar
+    Cursor de textos
+    Estilos popup recuperar contraseña
+    Arreglar estilos switch crear cuenta
+    Survey Test Case (Redactar y probar junto a Diego y José María)
