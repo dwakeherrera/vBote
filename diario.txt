@@ -108,8 +108,14 @@
   Continuación Test Cases para el release
   Reunión del equipo de IVI
   Asignación de tareas y explicación de funcionamiento: Axosoft
-  Tareas a realizar
-    Cursor de textos
+  Tareas a realizar (por orden prioritario)
+    Cursor de textos (+ cambiar estilo de título "Balance")
     Estilos popup recuperar contraseña
     Arreglar estilos switch crear cuenta
     Survey Test Case (Redactar y probar junto a Diego y José María)
+
+20190410
+  Comienzo de tareas
+  Mucha dificultad al buscar, probar e implementar las tareas
+  Cursor de textos: Cambiar el estilo del cursor, pointer y/o inherit -> default
+  Título "Balance" (en Estado de cuenta): Aplicar el mismo estilo que al apartado "Tareas" del menú
