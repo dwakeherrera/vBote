@@ -96,7 +96,10 @@
 20190405
   Continuación de curso Hibernate
   Test Cases en prepro IVI
-  Los Test Cases han sido realizados junto a mis compañeros del equipo de IVI, puesto a que la release es el martes 9 de abril, ha habido muy buena comunicación y nos hemos repartido el trabajo de manera muy organizada y eficiente. Hemos utilizado una plantilla en Google Drive y hablado en persona y mediante chat en Slack
+    Los Test Cases han sido realizados junto a mis compañeros del equipo de IVI, puesto a
+    que la release es el martes 9 de abril, ha habido muy buena comunicación y nos hemos
+    repartido el trabajo de manera muy organizada y eficiente. Hemos utilizado una plantilla
+    en Google Drive y hablado en persona y mediante chat en Slack
 
 20190408
   Continuación de curso Hibernate
@@ -117,5 +120,26 @@
 20190410
   Comienzo de tareas
   Mucha dificultad al buscar, probar e implementar las tareas
-  Cursor de textos: Cambiar el estilo del cursor, pointer y/o inherit -> default
+  Cursor de textos: Cambiar el estilo del cursor, pointer y/o inherit -> default (no hacer a nivel css, hacerlo inline)
   Título "Balance" (en Estado de cuenta): Aplicar el mismo estilo que al apartado "Tareas" del menú
+    Título "Balance": Corregido
+
+20190411
+  Continuación de tareas
+  Cursor de textos: Corregido
+    Solución: En el parent div especificar "cursor: default;", además, he añadido
+    "pointerevents: none;" para que no permita hacer click (dejaba dar click, aunque sin evento alguno)
+  Estilos popup recuperar contraseña: Corregido
+    Solución: En el primer hijo del parent div especificar "max-width: 535.55px", width obtenido
+    del parent, que no se puede modificar directamente ya que ese mismo popup se utiliza en
+    otros eventos
+  Arreglar estilos switch crear cuenta: Corregido
+    Problema: Al activar la cuenta mediante el enlace recibido al correo, si volvíamos a dar a
+    registrar (cosa muy poco común si acabas de registrarte, pero probable) el switch de aceptar
+    las políticas de privacidad, estaba "activado", aparecía en gris (desactivado), pero estaba
+    posicionado a la derecha (activado), realmente está desactivado, ya que si no le damos click
+    no nos deja registrarnos, pero visualmente no era correcto
+    Solución: Modificar "v-touchkit-switch style="left: 0x;" a "left: -25px;" al darle al enlace
+    de activación de cuenta recibido en el correo
+
+  Soluciones a la espera de confirmación
