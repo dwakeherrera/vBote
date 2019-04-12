@@ -128,7 +128,7 @@
   Continuación de tareas
   Cursor de textos: Corregido
     Solución: En el parent div especificar "cursor: default;", además, he añadido
-    "pointerevents: none;" para que no permita hacer click (dejaba dar click, aunque sin evento alguno)
+    "pointer-events: none;" para que no permita hacer click (dejaba dar click, aunque sin evento alguno)
   Estilos popup recuperar contraseña: Corregido
     Solución: En el primer hijo del parent div especificar "max-width: 535.55px", width obtenido
     del parent, que no se puede modificar directamente ya que ese mismo popup se utiliza en
@@ -136,10 +136,22 @@
   Arreglar estilos switch crear cuenta: Corregido
     Problema: Al activar la cuenta mediante el enlace recibido al correo, si volvíamos a dar a
     registrar (cosa muy poco común si acabas de registrarte, pero probable) el switch de aceptar
-    las políticas de privacidad, estaba "activado", aparecía en gris (desactivado), pero estaba
+    las políticas de privacidad estaba "activado", aparecía en gris (desactivado), pero estaba
     posicionado a la derecha (activado), realmente está desactivado, ya que si no le damos click
-    no nos deja registrarnos, pero visualmente no era correcto
+    no deja registrarnos, pero visualmente no era correcto
     Solución: Modificar "v-touchkit-switch style="left: 0x;" a "left: -25px;" al darle al enlace
     de activación de cuenta recibido en el correo
 
   Soluciones a la espera de confirmación
+
+20190412
+  Continuación de tareas
+  Soluciones propuestas
+    Aceptadas "Balance" y "Cursor de textos"
+    Rechazadas "Estilos popup recuperar contraseña" y "Arreglar estilos switch crear cuenta"
+  Estilos popup recuperar contraseña
+    Propuse aplicar "max-width: 230px;" a form-text-label-error, visualmente quedaría igual que la primera solución propuesta
+    pero no cambiaríamos ningún estilo del popup
+  Arreglar estilos switch crear cuenta
+    La solución es la correcta, tras una explicación de su ciclo de vida, estoy a la espera de que mi compañero Diego me explique
+    cómo solucionó algo muy similar, para implementarlo de la misma manera en este caso
