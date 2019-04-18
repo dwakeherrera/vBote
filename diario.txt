@@ -168,4 +168,7 @@
 
 20190417
   Continuación de tareas
-
+  Arreglar estilos switch crear cuenta: Pausada
+  Survey Test Case: Empezada
+    Revisar todas las encuestas (16) para que todo esté visualmente y funcionalmente como debería, redactar los test cases, realizar los test cases y 
+    apuntar los errores encontrados a lo largo del proceso.
