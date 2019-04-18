@@ -145,6 +145,7 @@
   Soluciones a la espera de confirmación
 
 20190412
+  Invitado a los repositorios de developers en Bitbucket y al panel de trabajo en Axosoft con la cuenta corporativa de vBote
   Continuación de tareas
   Soluciones propuestas
     Aceptadas "Balance" y "Cursor de textos"
@@ -155,3 +156,18 @@
   Arreglar estilos switch crear cuenta
     La solución es la correcta, tras una explicación de su ciclo de vida, estoy a la espera de que mi compañero Diego me explique
     cómo solucionó algo muy similar, para implementarlo de la misma manera en este caso
+
+20190415
+  Continuación de tareas
+  Reunión weekly
+  Estilos popup recuperar contraseña: Corregido
+    Solución: Tras probar muchas cosas, la solución más limpia era aplicar "max-width: 252px;" únicamente al texto
+
+20190416
+  Reunión Serpis
+
+20190417
+  Continuación de tareas
+
+20190418
+  Continuación de tareas
