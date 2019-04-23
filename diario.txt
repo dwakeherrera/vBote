@@ -172,3 +172,10 @@
   Survey Test Case: Empezada
     Revisar todas las encuestas (16) para que todo esté visualmente y funcionalmente como debería, redactar los test cases, realizar los test cases y 
     apuntar los errores encontrados a lo largo del proceso.
+
+20190418
+  Continuación de tareas
+
+20190423
+  Continuación de tareas
+    Survey Test Cases: Completado
