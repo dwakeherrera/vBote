@@ -182,3 +182,11 @@
 
 20190424
   Survey Test Cases: mejorado y añadidas más pruebas
+
+20190425
+  Tareas a realizar
+    Mejorar Test Case: Indicar qué hay que hacer (paso a paso) para una encuesta en texto plano y otra que funciona por cadenas de traducción.
+    Encuesta no mostrada: Averiguar por qué las encuestas 2 y 16 no se muestran.
+    Subir fichero: Revisar el código del uploader de la encuesta 3 para evitar el error encontrado. El error consiste en que, al dar al botón de "Atrás" para
+    guardar la encuesta (sin enviar) con un fichero subido y salir a la pantalla principal, al volver a la encuesta, si borramos el fichero y subimos otro,
+    ya sea el mismo u otro con el mismo nombre, no nos preguntará si queremos guardar al darle a "Atrás", directamente irá a la pantalla home.
