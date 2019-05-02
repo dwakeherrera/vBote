@@ -190,3 +190,8 @@
     Subir fichero: Revisar el código del uploader de la encuesta 3 para evitar el error encontrado. El error consiste en que, al dar al botón de "Atrás" para
     guardar la encuesta (sin enviar) con un fichero subido y salir a la pantalla principal, al volver a la encuesta, si borramos el fichero y subimos otro,
     ya sea el mismo u otro con el mismo nombre, no nos preguntará si queremos guardar al darle a "Atrás", directamente irá a la pantalla home.
+
+20190426
+  Continuación de tareas
+    Mejorar Test Case: Completado
+    Encuesta no mostrada: Completado
