@@ -201,3 +201,7 @@
     Detectar cambios en uploader (Subir fichero)
     Aviso preguntas requeridas: En las encuestas, al pulsar el botón "Siguiente", si hay algún campo que sea requerido y no deje avanzar, que haga scroll
     hasta ese campo, ya que al no mostrarse un scrollbar es difícil saber que existen más preguntas en esa página y/o que queda una requerida por contestar.
+
+20190503
+  Pruebas específicas de los arreglos para el cierre de código (Sprint 4)
+  Redactar/modificar los Test Cases que se vean afectados
