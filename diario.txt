@@ -205,3 +205,8 @@
 20190503
   Pruebas específicas de los arreglos para el cierre de código (Sprint 4)
   Redactar/modificar los Test Cases que se vean afectados
+
+20190506
+  Comprobar funcionamiento Selenium Tests con Chromedriver
+    Encontrado error y arreglado 'ConfigurationTests': Al probar todas las posibilidades de error en el cambio de contraseña, no cerraba el popup, añadido
+    en el switch, antes del break en cada case, "configuration-buttonCancel".onclick
