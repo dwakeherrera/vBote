@@ -210,3 +210,10 @@
   Comprobar funcionamiento Selenium Tests con Chromedriver
     Encontrado error y arreglado 'ConfigurationTests': Al probar todas las posibilidades de error en el cambio de contraseña, no cerraba el popup, añadido
     en el switch, antes del break en cada case, "configuration-buttonCancel".onclick
+
+20190508
+  Continuación de tests Selenium
+    Encontrado error y arreglado 'BackgroundTests': En una versión reciente se ha cambiado para que al iniciar sesión con un usuario "hombre" no muestre la opción
+    antecedentes, por lo tanto el test debería terminar ahí, sin embargo seguía y fallaba. Al iniciar sesión con un usuario "mujer" mostraba varias pestañas
+    que ya no se encuentran disponibles y fallaba, una vez comentadas ya funciona correctamente. También fallaba al marcar 0 en el desplegable de la pregunta
+    "cuántos tratamientos de embarazo has recibido sin éxito" ya que obtenía una lista vacía, del 1 al 10 funcionaba bien ya que sí recibía una lista.
