@@ -217,3 +217,10 @@
     antecedentes, por lo tanto el test debería terminar ahí, sin embargo seguía y fallaba. Al iniciar sesión con un usuario "mujer" mostraba varias pestañas
     que ya no se encuentran disponibles y fallaba, una vez comentadas ya funciona correctamente. También fallaba al marcar 0 en el desplegable de la pregunta
     "cuántos tratamientos de embarazo has recibido sin éxito" ya que obtenía una lista vacía, del 1 al 10 funcionaba bien ya que sí recibía una lista.
+
+20190509
+  Continuación de tests Selenium
+  Pruebas nueva versión
+    Nuevos campos en popup de completar registro "provincia" y "ciudad"
+    Cambios de int a string en los tipos de tratamiento
+    Cambios en antecedentes clínicos
