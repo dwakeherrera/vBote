@@ -224,3 +224,6 @@
     Nuevos campos en popup de completar registro "provincia" y "ciudad"
     Cambios de int a string en los tipos de tratamiento
     Cambios en antecedentes clínicos
+
+20190510
+  Pruebas de release en Chrome, Firefox, Safari y Edge
