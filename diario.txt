@@ -207,6 +207,7 @@
   Redactar/modificar los Test Cases que se vean afectados
 
 20190506
+  Reunión weekly
   Comprobar funcionamiento Selenium Tests con Chromedriver
     Encontrado error y arreglado 'ConfigurationTests': Al probar todas las posibilidades de error en el cambio de contraseña, no cerraba el popup, añadido
     en el switch, antes del break en cada case, "configuration-buttonCancel".onclick
@@ -227,3 +228,8 @@
 
 20190510
   Pruebas de release en Chrome, Firefox, Safari y Edge
+
+20190513
+  Reunión weekly
+  Continuación tareas
+    
