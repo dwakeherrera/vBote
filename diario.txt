@@ -231,5 +231,22 @@
 
 20190513
   Reunión weekly
-  Continuación tareas
-    
+  Asignación de nuevas tareas
+    Actualizar las redacciones en los Test Cases que sea necesario debido a nuevos cambios
+
+20190514
+  Asignación de nuevas tareas
+    Estudiar la funcionalidad de los comunicados, determinar de dónde salen los documentos que se pueden agregar a la sección (averiguar con qué tabla tiene
+    relación TSCommunication que contenga documentos), además de averiguar cómo es la relación (id_documento?)
+    Repasar los tests Selenium actualizados
+  Reunión del equipo de IVI
+  Continuación de tareas
+
+20190515
+  Continuación de tareas
+    Redacción de Test Cases "Antecedentes hombre" y "Antecedentes mujer" terminados
+
+20190516
+  Continuación de tareas
+    Reportados varios bugs encontrados en "Antecedentes"
+    Redacción de Test Case "Balance de cuentas" terminado (bastantes cambios y prácticamente hecho desde 0)
