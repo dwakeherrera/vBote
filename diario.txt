@@ -250,3 +250,6 @@
   Continuación de tareas
     Reportados varios bugs encontrados en "Antecedentes"
     Redacción de Test Case "Balance de cuentas" terminado (bastantes cambios y prácticamente hecho desde 0)
+
+20190517
+  Continuación de tareas
