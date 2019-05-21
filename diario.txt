@@ -253,3 +253,11 @@
 
 20190517
   Continuación de tareas
+
+20190520
+  Ausencia por enfermedad
+
+20190521
+  Asignación de nueva tarea
+    Traducir al inglés el Test Case de Survey creado por mí anteriormente
+  Continuación de tareas
