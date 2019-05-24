@@ -259,5 +259,17 @@
 
 20190521
   Asignación de nueva tarea
-    Traducir al inglés el Test Case de Survey creado por mí anteriormente
+    Traducir al inglés el Test Case de Survey creado por mí anteriormente: terminada
+  Continuación de tareas
+
+20190522
+  Asignación de nueva tarea
+    Revisión de nueva actualización en el apartado "Tratamiento" del portal IVI: terminada
+  Continuación de tareas
+
+20190523
+  Continuación de tareas
+
+20190524
+  Entrega de proyecto "Memoria de prácticas vBote 2019 - David García Herrera" en el I.E.S. Serpis
   Continuación de tareas
